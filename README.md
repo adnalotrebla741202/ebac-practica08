@@ -68,13 +68,6 @@ En este proyecto se desarrolló un ecommerce utilizando la metodología BEM (Blo
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a67fb3e4-3a2c-4db5-b855-002aaa2ffecb" />
 
+---
 
-
-
-
-
-
-
-
-
-
+## <p align="center"><a href="https://github.com/adnalotrebla741202">REGRESAR</a></p>
